@@ -1,0 +1,8 @@
+{
+  "name": "PaperDeconstruct - CS Research Agent",
+  "description": "Advanced Computer Science Research Agent for academic paper decomposition, architecture flowchart generation, and student resume project opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
